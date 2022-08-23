@@ -1,0 +1,27 @@
+<RCC>
+    <qresource prefix="/snake">
+        <file>audio/bg.wav</file>
+        <file>audio/big_bite.wav</file>
+        <file>audio/button.wav</file>
+        <file>img/snake_bg.jpg</file>
+        <file>img/snake_icon.png</file>
+        <file>img/tile.png</file>
+        <file>shader/shader.fs</file>
+        <file>shader/shader.vs</file>
+    </qresource>
+    <qresource prefix="/chinese">
+        <file>img/blackChess.png</file>
+        <file>img/board.png</file>
+        <file>img/redChess.png</file>
+        <file>img/chess.png</file>
+    </qresource>
+    <qresource prefix="/chat">
+        <file>img/chat.png</file>
+    </qresource>
+    <qresource prefix="/login">
+        <file>img/login.png</file>
+    </qresource>
+    <qresource prefix="/go">
+        <file>img/go.png</file>
+    </qresource>
+</RCC>
