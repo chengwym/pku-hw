@@ -1,0 +1,9 @@
+hyperopt==0.2.7
+matplotlib==3.5.2
+matplotlib_inline==0.1.2
+numpy==1.22.3
+pandas==1.4.2
+scikit_learn<1.0.0
+scipy==1.8.0
+statsmodels==0.13.2
+xgboost==1.6.1
